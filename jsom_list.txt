@@ -1,0 +1,48 @@
+{"products":[
+    {
+        "id":1,
+        "name": "Xiaomi Redmi Note 10 Pro",
+        "description":"This is Xiaomi Redmi Note 10 Pro",
+        "type":"Phone",
+        "color":"Black",
+        "price":500,
+        "image":"https://raw.githubusercontent.com/TEH3OP/data/master/pics/Xiaomi_Redmi_Note_10_Pro.jpg"
+    },
+	    {
+        "id":2,
+        "name": "Samsung Galaxy S20 FE",
+        "description":"Samsung Galaxy S20 FE (2021) 6/128GB Light Violet (SM-G780GLVDSEK)",
+        "type":"Phone",
+        "color":"Lavenda",
+        "price":600,
+        "image":"https://raw.githubusercontent.com/TEH3OP/data/master/pics/Samsung_Galaxy_S20_FE.jpg"
+    },
+	    {
+        "id":3,
+        "name": "Apple iPhone 11",
+        "description":"Apple iPhone 11 64GB Purple Slim Box (MHDF3)",
+        "type":"Phone",
+        "color":"Green",
+        "price":600,
+        "image":"https://raw.githubusercontent.com/TEH3OP/data/master/pics/Apple_iPhone_11.jpg"
+    },
+	    {
+        "id":4,
+        "name": "Nokia G20",
+        "description":"Nokia G20 4/64GB Blue",
+        "type":"Phone",
+        "color":"Blue",
+        "price":150,
+        "image":"https://raw.githubusercontent.com/TEH3OP/data/master/pics/Nokia_G20.jpg"
+    },	
+		    {
+        "id":5,
+        "name": "OnePlus Nord",
+        "description":"OnePlus Nord 12/256GB Gray Onyx",
+        "type":"Phone",
+        "color":"Gray",
+        "price":400,
+        "image":"https://raw.githubusercontent.com/TEH3OP/data/master/pics/OnePlus_Nord.jpg"
+    }
+]
+}
